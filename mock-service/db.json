@@ -1,0 +1,141 @@
+{
+  "bosses": [
+    {
+      "name": "Artorias the Abysswalker",
+      "img": "../src/assets/bosses/artorias.png",
+      "weapon": "Greatsword",
+      "element": "None",
+      "weakness": "Lightning",
+      "type": "main",
+      "race": "Human",
+      "gender": "Male",
+      "movement": "Two-legged",
+      "game": "Dark Souls: Artorias of the Abyss",
+      "year": 2012,
+      "id": 25
+    },
+    {
+      "name": "Manus, Father of the Abyss",
+      "weapon": "Fists",
+      "element": "Dark",
+      "weakness": "Fire",
+      "type": "main",
+      "race": "Primordial Manus",
+      "gender": "Male",
+      "movement": "Two-legged",
+      "game": "Dark Souls: Artorias of the Abyss",
+      "year": 2012,
+      "id": 26
+    },
+    {
+      "name": "Sanctuary Guardian",
+      "weapon": "No weapon",
+      "element": "Lightning",
+      "weakness": "Fire",
+      "type": "sub",
+      "race": "Animal",
+      "gender": "Unknown",
+      "movement": "Four-legged",
+      "game": "Dark Souls: Artorias of the Abyss",
+      "year": 2012,
+      "id": 27
+    },
+    {
+      "name": "Kalameet, the Black Dragon",
+      "weapon": "Fire and physical attacks",
+      "element": "Fire",
+      "weakness": "None",
+      "type": "optional",
+      "race": "Dragon",
+      "gender": "Unknown",
+      "movement": "Four-legged",
+      "game": "Dark Souls: Artorias of the Abyss",
+      "year": 2012,
+      "id": 28
+    },
+    {
+      "name": "Elana, the Squalid Queen",
+      "weapon": "Greataxe",
+      "element": "Dark",
+      "weakness": "Lightning",
+      "race": "Human",
+      "gender": "Female",
+      "movement": "Two-legged",
+      "type": "optional",
+      "game": "Dark souls 2: Crown of the sunken king",
+      "year": 2014,
+      "id": 29
+    },
+    {
+      "name": "Sinh, the Slumbering Dragon",
+      "weapon": "No weapon",
+      "element": "Fire",
+      "weakness": "Lightning",
+      "race": "Dragon",
+      "gender": "Male",
+      "movement": [
+        "Four-legged",
+        "Flying"
+      ],
+      "type": "sub",
+      "game": "Dark souls 2: Crown of the sunken king",
+      "year": 2014,
+      "id": 30
+    }
+  ],
+
+  "users": [
+    {
+      "name": "Abrazos gratis",
+      "email": "abrazosgratis@gmail.com",
+      "friends": [
+        {
+          "name": "Venereo",
+          "email":"venereo@gmail.com",
+          "image": "https://i.pravatar.cc/300"
+        },
+        {
+          "name": "Ayuwoki",
+          "email": "ayuwoki@gmail.com",
+          "image": "https://i.pravatar.cc/300"
+        },
+        {
+          "name": "Ferzangax Alonso",
+          "email":"ferzangaxalonso@gmail.com",
+          "image": "https://i.pravatar.cc/300"
+        },
+        {
+          "name": "Gug of Wog",
+          "email":"gugofwog@gmail.com",
+          "image": "https://i.pravatar.cc/300"
+        }
+      ],
+      "image": "https://i.pravatar.cc/300",
+      "password": 1234
+    },
+    {
+      "name": "Venereo",
+      "email": "venereo@gmail.com",
+      "image": "https://i.pravatar.cc/300",
+      "password": 1234
+    },
+    {
+      "name": "Ayuwu",
+      "email": "ayuwu@gmail.com",
+      "image": "https://i.pravatar.cc/300",
+      "password": 1234
+    },
+    {
+      "name": "Ferzangax Alonso",
+      "email":"ferzangaxalonso@gmail.com",
+      "image": "https://i.pravatar.cc/300",
+      "password": 1234
+    },
+    {
+      "name": "Gug of Wog",
+      "email":"gugofwog@gmail.com",
+      "image": "https://i.pravatar.cc/300",
+      "password": 1234
+    }
+  ]
+}
